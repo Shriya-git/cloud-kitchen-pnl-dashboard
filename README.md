@@ -1,3 +1,5 @@
+Live Project Link : https://cloud-kitchen-pnl-dashboard-8yxd8appmsv8ojgcxku7df5.streamlit.app/ 
+
 Cloud Kitchen PNL Dashboard
 Interactive Streamlit dashboard for cloud kitchen PNL analysis, variance tracking, and revenue insights built with Python, pandas, and Plotly.
 
